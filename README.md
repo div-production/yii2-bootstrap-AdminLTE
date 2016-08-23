@@ -10,7 +10,7 @@ Install
 
 How to Use
 ===
-layout sample file: `@vendor/cszchen/alte/veiws/main-layout.php`
+layout sample file: `@vendor/cszchen/alte/views/main-layout.php`
  
 example:
 ---
